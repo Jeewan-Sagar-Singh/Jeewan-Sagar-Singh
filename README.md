@@ -1,13 +1,13 @@
 # Hi, I'm Jeewan Sagar Singh 👋  
 
-🎓 B.Tech in Computer Science (AI & ML specialization), 3rd Year (5th Sem)  
+🎓 B.Tech in Computer Science (AI & ML specialization),  
 💻 Interested in **Artificial Intelligence, Machine Learning, and Data Science**  
 🚀 Currently learning Python for AI/ML and exploring open-source contributions  
 
 ---
 
 ## 🔧 Skills (Learning & Practicing)
-- **Languages**: Python, C++, Java (beginner level)  
+- **Languages**: Python, C++,(beginner level)  
 - **AI/ML**: Pandas, NumPy, Matplotlib (currently learning more like Scikit-learn & TensorFlow)  
 - **Tools**: Git, GitHub, Jupyter Notebook, VS Code  
 
